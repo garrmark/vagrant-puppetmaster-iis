@@ -1,0 +1,7 @@
+iis_sites:
+  PFAppServer-QA:
+    bindings:	["http/*:60012:"]
+  PFGPServer-QA:
+    bindings:	["http/*:60112:"]
+  MyOEMServer-QA:
+    bindings:	["http/*:60212:"]

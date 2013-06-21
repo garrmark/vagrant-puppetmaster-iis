@@ -1,0 +1,7 @@
+iis_sites:
+  dev.epartslink.net:
+    bindings:	["http/*:80:dev-ws.partsfinder.com", "https/*:443:dev-ws.partsfinder.com"]
+  dev.partsfinder.com:
+    bindings:	["http/*:80:dev.partsfinder.com", "https/*:443:dev.partsfinder.com"]
+  dev-vendor.partsfinder.com:
+    bindings:	["http/*:80:dev-vendor.partsfinder.com", "https/*:443:dev-vendor.partsfinder.com"]

@@ -1,0 +1,7 @@
+iis_sites:
+  PFAppServer-RC:
+    bindings:	["http/*:60013:"]
+  PFGPServer-RC:
+    bindings:	["http/*:60113:"]
+  MyOEMServer-RC:
+    bindings:	["http/*:60213:"]

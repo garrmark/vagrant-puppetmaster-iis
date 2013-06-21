@@ -1,0 +1,20 @@
+{
+  "name": "mgarrison-iis_role_setup",
+  "author": "mgarrison",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    "Modulefile": "cc6e0a838a1e4d25f07d58938798db1f",
+    "README.markdown": "866564517e075b59317c7d4729ef3223",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests\\init.pp": "4d50bea773ea7979b66797c8d22b3c78",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "b8524b6daa67314f2f90284053ec9fff"
+  },
+  "dependencies": []
+}

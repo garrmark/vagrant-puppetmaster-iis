@@ -1,0 +1,11 @@
+name 'mgarrison-app_server_site'
+version '0.0.1'
+
+author 'mgarrison'
+license 'Apache License, Version 2.0'
+project_page 'UNKNOWN'
+source 'UNKNOWN'
+summary 'UNKNOWN'
+description 'UNKNOWN'
+dependency 'puppetlabs/dism', '==0.1.0'
+dependency 'simondean/iis', '==0.1.3'

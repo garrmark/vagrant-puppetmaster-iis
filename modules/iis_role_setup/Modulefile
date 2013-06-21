@@ -1,0 +1,10 @@
+name 'mgarrison-iis_role_setup'
+version ''
+
+author 'mgarrison'
+license ''
+project_page ''
+source ''
+summary ''
+description ''
+dependency 'puppetlabs/dism', '==0.1.0'
