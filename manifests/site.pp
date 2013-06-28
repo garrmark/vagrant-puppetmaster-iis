@@ -1,4 +1,4 @@
-node 'marks-virtualbox-2008r2.mypartssource.com' {
+node 'agent1.mypartssource.com' {
   include dotnet
   include iis_role_setup
   include chocolatey

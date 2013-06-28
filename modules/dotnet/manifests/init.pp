@@ -21,10 +21,10 @@ class dotnet {
     source => "puppet:///modules/${module_name}/${appfab}",
   }
   
-  package { "Test":
+  package { "Microsoft(R) Windows(R) Server AppFabric":
     ensure => present,
     source => "c:\\${appfab}",
-    install_options => [ '/i', '/l c:\abbfab_install.txt' ],
+    install_options => [ '/i' ],
   }
 
 }
