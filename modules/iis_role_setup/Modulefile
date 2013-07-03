@@ -2,7 +2,7 @@ name 'mgarrison-iis_role_setup'
 version ''
 
 author 'mgarrison'
-license ''
+license 'CopyRight PartsSource Inc. 2012'
 project_page ''
 source ''
 summary ''

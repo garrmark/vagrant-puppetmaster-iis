@@ -1,0 +1,8 @@
+name 'mgarrison-appfabric'
+version '0.0.1'
+source 'UNKNOWN'
+author 'mgarrison'
+license 'CopyRight PartsSource Inc. 2012'
+summary 'Installs AppFabric 1.1'
+description 'Installs both the caching and hosting pieces of appfabric 1.1'
+project_page 'UNKNOWN'

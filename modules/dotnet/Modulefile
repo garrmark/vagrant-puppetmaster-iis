@@ -1,8 +1,9 @@
 name 'mgarrison-dotnet'
 version '0.0.1'
-source 'UNKNOWN'
+
 author 'mgarrison'
-license 'Apache License, Version 2.0'
+license 'CopyRight PartsSource Inc. 2012'
+project_page 'UNKNOWN'
+source 'UNKNOWN'
 summary 'Installs .Net Framework'
 description 'Installs and manages .Net Framework version 4'
-project_page 'UNKNOWN'
